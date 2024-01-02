@@ -73,7 +73,6 @@ itsdangerous
 jedi
 Jinja2
 joblib
-Js2P
 json5
 jsoni
 jsonpoint
